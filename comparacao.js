@@ -14,3 +14,17 @@ console.log(5==="5")
 
 let idade = 18 
 console.log(idade>=18)
+
+// Ex:
+
+let SenhaCorreta = "1234"
+let SenhaDigitada = "1234"
+
+console.log(SenhaCorreta===SenhaDigitada)
+
+// Ex:
+
+let temperatura = 45
+
+console.log("Esta quente?",temperatura >= 30)
+
