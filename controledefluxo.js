@@ -9,4 +9,14 @@ if (idade >=18) {
     console.log("Maior de idade")
 } else {
     console.log("Menor de idade")
+}   
+
+
+let velocidade = 30
+if (velocidade <60 ){
+    console.log("Dentro do limite")
+} else if (velocidade >60<80) {
+    console.log("Atençao")
+} else {
+    console.log("multado")
 }
